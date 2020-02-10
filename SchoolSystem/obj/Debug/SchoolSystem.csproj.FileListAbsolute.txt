@@ -1,0 +1,31 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\bin\Debug\SchoolSystem.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\bin\Debug\SchoolSystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\bin\Debug\SchoolSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.MainWindow.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Courses.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Grades.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Lectures.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Payments.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Rooms.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\bin\Debug\SchoolSystem.exe.config
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\bin\Debug\SchoolSystem.exe
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\bin\Debug\SchoolSystem.pdb
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csprojAssemblyReference.cache
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Courses.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Grades.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Lectures.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.MainWindow.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Payments.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Properties.Resources.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Resources.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.Rooms.resources
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.GenerateResource.cache
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.exe
+C:\Users\sheck\Documents\Projects\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.pdb
